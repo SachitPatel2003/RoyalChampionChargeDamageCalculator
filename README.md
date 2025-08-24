@@ -1,6 +1,11 @@
 # Royal Champion Charge Damage Calculator
 ## Calculate the Royal Champion's damage against defenses and plan out a Royal Champion Charge in your Clash of Clans Raid!
-Select your desired defense and its level! Then calculate damage via number of spears thrown! Defense imaging and health remaining are automatically updated!
+
+### How to Use
+- Set Hero, Equipment, and Pet Levels in the Set Levels Tab
+- Select the desired defense and equipment level using dropdown menus, and manually input valid defense level.
+- Enter # of Spear Shots to see how much damage is dealt & how much health remains.
+
 
 https://github.com/user-attachments/assets/3d1476fc-f198-40a3-a905-11fc4b765f90
 
