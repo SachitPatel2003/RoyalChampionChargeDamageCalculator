@@ -9,3 +9,4 @@ Below are images of the empty Charge Tracker and a Sample Charge tracked, with a
 <img width="2465" height="780" alt="chargeTrackerBlank" src="https://github.com/user-attachments/assets/b184a1f8-ae2e-41f0-8f7b-2eb2f892bde3" />
 <img width="2471" height="794" alt="chargeTrackerFilledSample" src="https://github.com/user-attachments/assets/180a9d24-15f7-4f8c-b95f-ce1ae7937b37" />
 
+https://youtu.be/SAeTlx4TN08?si=mkIi7lspOjIZesc0
