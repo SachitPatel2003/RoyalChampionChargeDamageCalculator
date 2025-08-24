@@ -6,7 +6,11 @@
 - Select the desired defense and equipment level using dropdown menus, and manually input valid defense level.
 - Enter # of Spear Shots to see how much damage is dealt & how much health remains.
 
-
+### Features
+- Various damage calculator modifiers (Hard Mode, Active Ability, etc.)
+- Automatic Defense Level Image UI scaling with input values across various types of defenses.
+- Dynamic scaling with input levels.
+- Color-Coordinated and Visually-Coordinated User Interface with toggleable Tutorial UI.
 https://github.com/user-attachments/assets/3d1476fc-f198-40a3-a905-11fc4b765f90
 
 ## Track and plan your Royal Champion Charge with the Charge Tracker Sheet!
